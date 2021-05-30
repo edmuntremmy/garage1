@@ -1,1 +1,1 @@
-https://travis-ci.com/github/edmuntremmy/garage1/builds/227428854
+!https://travis-ci.com/edmuntremmy/garage1.svg?branch=main!:https://travis-ci.com/edmuntremmy/garage1
