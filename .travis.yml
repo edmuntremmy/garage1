@@ -1,5 +1,5 @@
-language: c++
-  
+language: 
+  -cpp
 
 before_install:
   - pip install --user cpp-coveralls
@@ -8,7 +8,7 @@ addons:
   sonarcloud:
     organization: "edmuntremmy"
     token: $SONAR_TOKEN
-      secure: 3b6c2f731006b255927abaeddc0d939bc2071e7f
+     
 script:
   - qmake
   - make
