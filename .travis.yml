@@ -12,7 +12,8 @@ addons:
 script:
   - qmake
   - make
-  - ./tests/tests
+ 
+
   
   
 
